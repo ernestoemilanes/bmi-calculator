@@ -1,0 +1,14 @@
+/*! CSS rules to specify families */
+/* font-family: 'Lato',
+sans-serif;
+font-family: 'Open Sans',
+sans-serif;
+font-family: 'Roboto',
+sans-serif;
+font-family: 'Slabo 27px',
+serif; */
+
+body {
+    background-color: #777;
+    color: #fff;
+}
