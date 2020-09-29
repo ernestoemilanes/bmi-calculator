@@ -1,6 +1,6 @@
 BMI = 703 * weight / height^2 (can be done in lbs/kg and inches/meters)
 
-For example:
+## For example:
 1. If you weight 140lbs.
 2. And your height is 65 inches.
 
